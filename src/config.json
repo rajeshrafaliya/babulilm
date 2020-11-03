@@ -1,0 +1,62 @@
+{
+    "app_id": "com.study.babulilm",
+    "appname": "Babulilm",
+    "desktopappname": "Desktop",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
+    "default_lang": "en",
+    "languages": {
+        "en": "English"
+    },
+    "wsservice": "moodle_mobile_app",
+    "wsextservice": "local_mobile",
+    "demo_sites": {
+        "student": {
+            "url": "",
+            "username": "",
+            "password": ""
+        },
+        "teacher": {
+            "url": "",
+            "username": "",
+            "password": ""
+        }
+    },
+    "font_sizes": [
+        62.5,
+        75.89,
+        93.75
+    ],
+    "customurlscheme": "moodlemobile",
+    "siteurl": "https:\/\/study.babulilm.co.uk",
+    "sitename": "Babulilm",
+    "multisitesdisplay": "",
+    "onlyallowlistedsites": false,
+    "skipssoconfirmation": false,
+    "forcedefaultlanguage": false,
+    "privacypolicy": "https:\/\/babulilm.co.uk\/privacy-policy-gdpr",
+    "notificoncolor": "#FF0000",
+    "statusbarbg": false,
+    "statusbarlighttext": false,
+    "statusbarbgios": "#FF0000",
+    "statusbarlighttextios": true,
+    "statusbarbgandroid": "#FF0000",
+    "statusbarlighttextandroid": true,
+    "statusbarbgremotetheme": "#000000",
+    "statusbarlighttextremotetheme": true,
+    "enableanalytics": false,
+    "enableonboarding": true,
+    "forceColorScheme": "",
+    "ioswebviewscheme": "moodleappfs",
+    "appstores": {
+        "android": "com.study.babulilm",
+        "ios": "id633359593",
+        "windows": "moodle-desktop\/9p9bwvhdc8c8",
+        "mac": "id1255924440",
+        "linux": "https:\/\/download.moodle.org\/desktop\/download.php?platform=linux&arch=64"
+    }
+}
