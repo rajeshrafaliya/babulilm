@@ -1,0 +1,124 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-darryncampbell-cordova-plugin-intent": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-android-support-gradle-release": {
+      "ANDROID_SUPPORT_VERSION": "27.1.0",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "moodlemobile",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-local-notification": {
+      "ANDROID_SUPPORT_V4_VERSION": "26.+",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "nl.kingsquare.cordova.background-audio": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "phonegap-plugin-push": {
+      "ANDROID_SUPPORT_V13_VERSION": "27.+",
+      "FCM_VERSION": "17.5.+",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "false",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-advanced-http": {
+      "OKHTTP_VERSION": "3.10.0",
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-wkwebview-cookies": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-chooser": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-wkuserscript": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    },
+    "phonegap-plugin-multidex": {
+      "PACKAGE_NAME": "com.study.babulilm"
+    }
+  }
+}
